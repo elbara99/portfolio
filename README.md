@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Elbara's AI Portfolio
 
 ## Project info
 
